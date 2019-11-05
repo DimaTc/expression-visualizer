@@ -25,3 +25,4 @@ You can try any expression that you want as long as it follows this rules:
 the expression:
 `(~((a)*(ba)))*(((c)*(~(e)))&(d))`
 will break down to:
+![Tree Graph](/img/tree.jpg)
