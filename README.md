@@ -2,6 +2,8 @@
 
 A visualizer that will break down logic expressions into a tree view
 
+[Link to the project](https://dimatc.github.io/expression-visualizer)
+
 ## about
 
 The visualizer parses a logic expression with proper rules and translate it to a tree graph.
