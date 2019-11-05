@@ -2,6 +2,8 @@
 
 A visualizer that will break down logic expressions into a tree view
 
+[Link to the project](https://dimatc.github.io/expression-visualizer)
+
 ## about
 
 The visualizer parses a logic expression with proper rules and translate it to a tree graph.
@@ -25,3 +27,4 @@ You can try any expression that you want as long as it follows this rules:
 the expression:
 `(~((a)*(ba)))*(((c)*(~(e)))&(d))`
 will break down to:
+![Tree Graph](/img/tree.jpg)
